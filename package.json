@@ -12,7 +12,7 @@
     "react-scripts": "1.0.17"
   },
   "devDependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.13",
     "styled-components": "^2.4.0"
   },
   "scripts": {
